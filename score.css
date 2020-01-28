@@ -1,0 +1,4 @@
+/*  color to change when winning number is reached */
+.winner {
+    color: green;
+}
