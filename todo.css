@@ -1,0 +1,11 @@
+/* selected text becomes green */
+.selected {
+    color: green;
+}
+
+
+/*  mark a task as complete */
+.done {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
